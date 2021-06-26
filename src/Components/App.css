@@ -1,0 +1,35 @@
+.container {
+  margin: 0 auto;
+  width: 980px;
+}
+
+.form-title {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.form-input {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.contactlist-title {
+  margin-top: 40px;
+}
+
+.fa-trash {
+  font-size: 24px;
+}
+
+.navbar {
+  display: flex;
+}
+
+.nav-ulist {
+  display: inline;
+  width: 50%;
+}
+
+.nav-list {
+  width: 100px;
+}
